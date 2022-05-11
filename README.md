@@ -8,10 +8,10 @@ This is group 5's final project for Data Mining. In this project, our group deci
 Initial Task List:
 - [x] Discussing and deciding on which models to use: due by 04/22
 - [x] Inspecting and cleaning the data: due by 04/25
-- [ ] Data visualization: due by 04/25
-- [ ] Getting the report started: due by 04/25 
-- [ ] Modeling and evaluating performance: due by 04/29
-- [ ] Creating the presentation: due by 05/02
+- [x] Data visualization: due by 04/25
+- [x] Getting the report started: due by 04/25 
+- [x] Modeling and evaluating performance: due by 04/29
+- [x] Creating the presentation: due by 05/02
 
 
 
